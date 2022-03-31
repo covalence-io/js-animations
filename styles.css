@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#block {
+    width: 2em;
+    height: 2em;
+    background-color: dodgerblue;
+    position: absolute;
+    top: 10em;
+    left: 0;
+}
